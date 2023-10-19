@@ -1,4 +1,4 @@
-﻿# Tiny Weather Forecast Germany
+﻿# Tiny Weather Forecast Germany Material3
 
 Weather forecast with widgets for up to 10 days, based on open data from the Deutscher Wetterdienst (DWD).
 
